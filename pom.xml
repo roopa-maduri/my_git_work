@@ -14,11 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-<dependency>
-    <groupId>org.bitbucket.abdysamat</groupId>
-    <artifactId>springcore</artifactId>
-    <version>1.2.3-RELEASE</version>
-</dependency>
+
 
   </dependencies>
   <build>
